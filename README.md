@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hung Liu</h1>
-<h3 align="center">Hello, I’m Hung Liu, a senior undergraduate pursuing a Bachelor of Computer Science with a minor in Mathematics. My primary interests lie in data analytics and machine learning, where I strive to uncover actionable insights through data and build intelligent systems that solve real-world problems.
-
-My academic and professional journey is driven by a deep passion for data-driven decision-making and analytical problem-solving. I am committed to continuous learning and growth, with the goal of making a meaningful impact in the fields of data science, machine learning, and AI.</h3>
+<h3 align="center">
+  Hello, I’m Hung Liu, a senior undergraduate pursuing a Bachelor of Computer Science with a minor in Mathematics. My primary interests lie in data analytics and machine learning, where I strive to uncover actionable insights through data and build intelligent systems that solve real-world problems.<br><br>
+  My academic and professional journey is driven by a deep passion for data-driven decision-making and analytical problem-solving. I am committed to continuous learning and growth, with the goal of making a meaningful impact in the fields of data science, machine learning, and AI.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyskl&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyskl" /> </p>
 
