@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Hung Liu</h1>
 <h2 align="center">
-  Data Analytics • Machine Learning • AI
+  Data Analytics • Machine Learning • Software Engineering • AI
 </h2>
 
 <p align="center">
-I am a graduate with a Bachelor of Computer Science and a minor in Mathematics. My primary interests lie in data analytics and machine learning, where I focus on uncovering actionable insights from data and building intelligent systems that address real-world problems.
+I am a graduate with a Bachelor of Computer Science and a minor in Mathematics. My primary interests span data analytics, machine learning, and software engineering, where I focus on uncovering actionable insights from data and designing scalable, well-structured systems that solve real-world problems.
 </p>
 
 <p align="center">
-My academic and professional journey has been shaped by a strong passion for data-driven decision-making and analytical problem-solving. I am committed to continuous learning and professional growth, with the goal of making a meaningful impact in data science, machine learning, and AI.
+My academic and professional journey has been shaped by a strong passion for data-driven decision-making, analytical problem-solving, and building reliable software. I am committed to continuous learning and professional growth, with the goal of making a meaningful impact in software engineering, data science, machine learning, and AI.
 </p>
 
 <p align="left">
